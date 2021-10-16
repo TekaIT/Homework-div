@@ -77,19 +77,22 @@ h2{
     font-weight: bold;
 }
 .upr{
-
+    width: 100%;
+    height: 450px;
+    background-color: purple;
+    padding: auto;
 }
 .downr{
     width: 100%;
     height: 250px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .articles{
     width: 100%;
     height: 200px;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
 }
 .Ablock{
     width: 25%;
@@ -98,6 +101,7 @@ h2{
 }
 footer{
     display: block;
+    font-size: large ;
 }
 .footerblock{
     width: 100%;
